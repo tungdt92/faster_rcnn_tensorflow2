@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nam_den</folder>
+	<filename>IMG_6534.JPG</filename>
+	<path>D:\4Tung\projects\lahoacuc_diseases\Agri_AI-master\DATA\hoa_cuc\nam_den\IMG_6534.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>namsung</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1134</xmin>
+			<ymin>736</ymin>
+			<xmax>1228</xmax>
+			<ymax>856</ymax>
+		</bndbox>
+	</object>
+</annotation>
